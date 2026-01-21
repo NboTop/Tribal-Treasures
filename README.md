@@ -46,7 +46,7 @@ The Rathwa tribal community, renowned for their exquisite Pithora paintings, tex
 ## 🏗️ System Architecture
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
+┌──────────────────────────────────────────────────────────────────┐
 │                     Tribal Treasures Platform                    │
 ├──────────────────┬──────────────────┬──────────────────┬─────────┤
 │  Frontend Layer  │   Backend Layer  │  Blockchain Layer│  Storage│
@@ -200,13 +200,13 @@ Pilot program with Rathwa artisans showed **30% increase in average earnings** w
 
 ## 🔮 Future Roadmap
 
-### **Phase 2 (Q2 2025)**
+### **Phase 2 (2026+)**
 - [ ] Localization: Interface in Gujarati, Hindi, Rathwa
 - [ ] Mobile App: React Native version for iOS/Android
 - [ ] Expanded Artisan Programs: Microfinance integration for raw materials
 - [ ] Community Marketplace: Peer-to-peer learning & mentorship
 
-### **Phase 3 (Q3–Q4 2025)**
+### **Phase 3 (2026+)**
 - [ ] Cross-Chain Integration: Support for Ethereum mainnet & other L2s
 - [ ] Advanced AR Features: 3D model customization, virtual try-on
 - [ ] NFT Fractional Ownership: Allow collectors to co-own high-value pieces
@@ -294,7 +294,6 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 - 🐛 **Bug Reports**: Open an issue on GitHub
 - 💬 **Questions**: Start a discussion on GitHub Discussions
 - 🤝 **Collaborations**: Email us at [contact@tribalteasures.dev](mailto:contact@tribalteasures.dev)
-- 🌐 **Live Demo**: Visit [https://tribe-demo.vercel.app](https://tribe-demo.vercel.app)
 
 ---
 
